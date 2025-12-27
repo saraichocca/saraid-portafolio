@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/saraid-portafolio/static/css/main.f31b56f6.css",
+    "main.js": "/saraid-portafolio/static/js/main.19e23a40.js",
+    "static/js/453.c96e903b.chunk.js": "/saraid-portafolio/static/js/453.c96e903b.chunk.js",
+    "static/media/Foto1.png": "/saraid-portafolio/static/media/Foto1.51dc02b8f77d5a662059.png",
+    "static/media/saraiduno.jpeg": "/saraid-portafolio/static/media/saraiduno.43dd85f1d84400dcba17.jpeg",
+    "index.html": "/saraid-portafolio/index.html",
+    "main.f31b56f6.css.map": "/saraid-portafolio/static/css/main.f31b56f6.css.map",
+    "main.19e23a40.js.map": "/saraid-portafolio/static/js/main.19e23a40.js.map",
+    "453.c96e903b.chunk.js.map": "/saraid-portafolio/static/js/453.c96e903b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f31b56f6.css",
+    "static/js/main.19e23a40.js"
+  ]
+}
